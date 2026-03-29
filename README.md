@@ -1,8 +1,10 @@
-# Emotion Detector
+# Final Project
 
-This project detects emotions using IBM Watson NLP API and Flask.
+## Emotion Detector Application
+
+This is the Final Project for the Emotion Detector application using Python and Flask.
 
 ## Features
 - Detect emotions from text
-- Web API using Flask
+- Web deployment using Flask
 - Unit testing included
